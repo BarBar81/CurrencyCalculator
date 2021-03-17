@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор валют</string>
+    <string name="calc_name">Расчет коверсии из рублей</string>
+    <string name="settings_name">Настройки</string>
+    <string name="action_settings">Настрйоки</string>
+    <string name="action_update_now">Обновить сейчас</string>
+    <string name="button_settings_save">Сохранить</string>
+    <string name="button_settings_cancel">Отмена</string>
+    <string name="label_load_period_settings">Период обновления</string>
+    <string-array name="updatePeriods">
+        <item>без обновления</item>
+        <item>1 минута</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>3 часа</item>
+    </string-array>
+</resources>
